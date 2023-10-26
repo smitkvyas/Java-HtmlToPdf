@@ -14,7 +14,7 @@ To be added
 Usage
 -----
 
-```
+```java
 // AutoDetect lib installation
 new HtmlConvertBuilder()
     
@@ -34,7 +34,7 @@ new HtmlConvertBuilder()
     .convert("Path to output PDF file");
 ```
 
-```
+```java
 // Manually provide lib installation path
 new HtmlConvertBuilder()
 
